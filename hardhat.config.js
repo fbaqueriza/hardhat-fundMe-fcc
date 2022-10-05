@@ -8,7 +8,7 @@ require("hardhat-deploy")
 const COINMARKETCAP_API_KEY = process.env.COINMARKETCAP_API_KEY || ""
 //const RINKEBY_RPC_URL =
 //  process.env.RINKEBY_RPC_URL ||
-//"https://eth-rinkeby.alchemyapi.io/v2/z4pg_X7IJkPbnaPGj2HRLvapcY3Ku54W"
+
 const GOERLI_RPC_URL =
     process.env.GOERLI_RPC_URL ||
     "https://eth-mainnet.alchemyapi.io/v2/your-api-key"
